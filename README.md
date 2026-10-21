@@ -7,3 +7,6 @@ This readme is here as a placeholder for users to know that an up-to-date, encap
 
 If you want a copy, send me a pm via the forum:
 https://www.zen-cart.com/threads/196416
+
+## Issues
+Although there were many issues found 20 years ago when first de-lousing the module, they are not documented here, only ones that have cropped up 2026+ as the development of ZC3 tightens things up.
